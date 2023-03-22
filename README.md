@@ -15,7 +15,7 @@
 - ⚡ Fun fact: I always start my day with a cup of code & a hearty breakfast of syntax errors.
 - 🗺️ Ranchi, Jharkhand
 
-[![wakatime](https://wakatime.com/badge/user/20b1109d-5edf-4f57-a0a2-23242c53f1f5/project/350c9bf2-3fed-411d-ac70-2dbf09a73aef.svg)](https://wakatime.com/badge/user/20b1109d-5edf-4f57-a0a2-23242c53f1f5/project/350c9bf2-3fed-411d-ac70-2dbf09a73aef)
+[![wakatime](https://wakatime.com/badge/user/20b1109d-5edf-4f57-a0a2-23242c53f1f5.svg)](https://wakatime.com/@20b1109d-5edf-4f57-a0a2-23242c53f1f5)
 
 
 
