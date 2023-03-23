@@ -11,7 +11,7 @@
 - 🌱 Masai School is where I obtained my training.
 - 🛠  I'm always seeking opportunities to expand my horizons & learn about the world around me.
 - 🎓 Check out my <a target="_blank" href="https://drive.google.com/file/d/1XXXdIt9ipH2eBuyyiIYzLjp72wmMRBb5/view?usp=sharing">Resume</a>
-- 🖥️ My <a target="_blank" href="">Portfolio</a> showcases my skills and accomplishments.
+- 🖥️ My <a target="_blank" href="https://vivekkumar2380.github.io/">Portfolio</a> showcases my skills and accomplishments.
 - ⚡ Fun fact: I always start my day with a cup of code & a hearty breakfast of syntax errors.
 - 🗺️ Ranchi, Jharkhand
 
