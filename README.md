@@ -10,7 +10,7 @@
 - 🔭 Passionate Full Stack Developer dedicated to creating efficient, continually enhancing skills.
 - 🌱 Masai School is where I obtained my training.
 - 🛠  I'm always seeking opportunities to expand my horizons & learn about the world around me.
-- 🎓 Check out my <a target="_blank" href="https://drive.google.com/drive/u/0/folders/1uT-1n4Ahw-u12PtrP5CZjS67NTMZnalb">Resume</a>
+- 🎓 Check out my <a target="_blank" href="https://drive.google.com/file/d/18pPIY2h_qlhMjgI14ABU3tgVEkRFzbwu/view?usp=sharing">Resume</a>
 - 🖥️ My <a target="_blank" href="https://vivekkumar2380.github.io/">Portfolio</a> showcases my skills and accomplishments.
 - ⚡ Fun fact: I always start my day with a cup of code & a hearty breakfast of syntax errors.
 - 🗺️ Ranchi, Jharkhand
